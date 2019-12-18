@@ -1,0 +1,1 @@
+Made Breakout clone as instructed: including ball, tiles, lives, and scoring, updated readme and license
